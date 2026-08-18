@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "truboraj.aternos.me
-",
+    "ip": "truboraj.aternos.me",
     "port": 30088,
     "version": "26.2",
     "try-creative": false
