@@ -1,14 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "riya",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "truboraj.aternos.me",
+    "ip": "truboraj.aternos.me
+",
     "port": 30088,
-    "version": "1.20.1",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +32,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "sorry",
+        "sono",
+        "hello"
       ]
     },
     "chat-log": true,
